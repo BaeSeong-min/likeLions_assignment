@@ -19,4 +19,4 @@
 <br>
 
 ## ✨ 각오 한 마디
-<blockquote>"열심히 활동에 참여해보도록 하겠습니다!"</blockquote>
+<blockquote>"열심히 활동에 참여해보도록 하겠습니다!!"</blockquote>
